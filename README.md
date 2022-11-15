@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sruchandani
 - 👀 I’m interested in Salesforce Dev and Architecture, Web/Mobile, Front-End Dev, FinTech/Crypto and Investing
-- 🌱 I’m currently learning Salesforce things and want to learn more front-end frameworks
+- 🌱 I’m currently a Salesforce Lead at Southwest Airlines and want to continue building large-scale Salesforce & Integration solutions
 - 💞️ I’m looking to collaborate on - nothing at the moment
 - 📫 How to reach me - email or LinkedIn
 
